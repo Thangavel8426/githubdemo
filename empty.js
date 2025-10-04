@@ -1,1 +1,1 @@
-console.log("this is before terminal");
+console.log("github chech push or not");
